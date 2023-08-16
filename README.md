@@ -1,11 +1,10 @@
 # MovieBazLeecher--Python
 
-MovieBazLeecher [v1] By AGC007™ --Python :
+💥 [-MovieBazLeecher-APi-[V1] By AGC007™-] 💥
 
--- MovieBaz Leech All Movie
-
--- Fast Speed
-
--- Python
+- MovieBaz Leech All Movie ✅
+- 100% Working ✅
+- Tested ✅
+- Fast ✅
 
 ------- Developed by AGC007 -------
